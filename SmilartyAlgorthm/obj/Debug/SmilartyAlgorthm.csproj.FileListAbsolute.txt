@@ -1,0 +1,7 @@
+C:\Users\byanaliz\source\repos\SmilartyAlgorthm\obj\Debug\SmilartyAlgorthm.csprojAssemblyReference.cache
+C:\Users\byanaliz\source\repos\SmilartyAlgorthm\obj\Debug\SmilartyAlgorthm.csproj.CoreCompileInputs.cache
+C:\Users\byanaliz\source\repos\SmilartyAlgorthm\bin\Debug\SmilartyAlgorthm.exe.config
+C:\Users\byanaliz\source\repos\SmilartyAlgorthm\bin\Debug\SmilartyAlgorthm.exe
+C:\Users\byanaliz\source\repos\SmilartyAlgorthm\bin\Debug\SmilartyAlgorthm.pdb
+C:\Users\byanaliz\source\repos\SmilartyAlgorthm\obj\Debug\SmilartyAlgorthm.exe
+C:\Users\byanaliz\source\repos\SmilartyAlgorthm\obj\Debug\SmilartyAlgorthm.pdb
